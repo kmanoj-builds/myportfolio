@@ -20,4 +20,8 @@
 - creating pages - Home, About, Projects, Contact
 - created routes/router.tsx --> using Data Mode routing
 - creating navlinks using NavLink and isActive in - Navbar
+
+- build hero section
+- created footer and added
+- updated routing in footer also
 ------------------------------
