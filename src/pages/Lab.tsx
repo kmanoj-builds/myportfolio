@@ -142,7 +142,7 @@ const Lab = () => {
                   {experiment.description}
                 </p>
 
-                <div className="mt-auto flex flex-wrap gap-2 border-t border-[#80500F]/50 pt-6 mt-8">
+                <div className=" flex flex-wrap gap-2 border-t border-[#80500F]/50 pt-6 mt-8">
                   {experiment.topics.map((topic) => (
                     <span
                       key={topic}

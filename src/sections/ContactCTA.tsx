@@ -8,7 +8,7 @@ const ContactCTA = () => {
       className="relative overflow-hidden border-y border-[#80500F]/50 bg-[#241605] text-[#FFF4DC]"
     >
       {/* Decorative background elements */}
-      <div className="pointer-events-none absolute -right-32 top-0 h-96 w-96 rounded-full bg-[#FF9F0A]/[0.08] blur-[100px]" />
+      <div className="pointer-events-none absolute -right-32 top-0 h-96 w-96 rounded-full bg-[#FF9F0A]/8 blur-[100px]" />
 
       <div className="site-container relative z-10 py-24 md:py-32">
         {/* Section label */}
