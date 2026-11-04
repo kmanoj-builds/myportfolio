@@ -28,4 +28,6 @@
 - build project
 - build skills
 - build EngineeringMindset
+- build CurrentlyExploring
+- build ContactCTA
 ------------------------------
