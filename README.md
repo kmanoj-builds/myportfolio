@@ -24,4 +24,8 @@
 - build hero section
 - created footer and added
 - updated routing in footer also
+
+- build project
+- build skills
+- build EngineeringMindset
 ------------------------------
